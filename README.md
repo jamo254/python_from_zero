@@ -1,6 +1,6 @@
 # Learn Python from zero to expert
 
-# Baisc Datatypes in Python
+## Basic Datatypes in Python
 
 ## Numbers
 Number data types contain integers
