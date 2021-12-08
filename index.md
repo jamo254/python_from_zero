@@ -1,9 +1,6 @@
 ## Welcome to Python from Zero To hero
 
 
-
-
-
 ## Basic Datatypes in Python
 
 ## Numbers
