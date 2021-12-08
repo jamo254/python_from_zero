@@ -1,8 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome to Python from Zero To hero
 
-You can use the [editor on GitHub](https://github.com/jamo254/python_from_zero/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+
+## Basic Datatypes in Python
+
+## Numbers
+Number data types contain integers
+- We can use the type() function to confirm this.
+```python
+first_number = 123
+second_number = 456
+print(first_number, second_number) #123 456
+
+#Checking type of variable
+print('The type is ',type(first_number))
+
+ ```
+
+
 
 ### Markdown
 
